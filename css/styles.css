@@ -43,8 +43,7 @@ p {
 }
 
 .middle-container {
-  background-color: #8fbbaf;
-  margin: 100px 0;
+  background-color: #8fbbaf;  
 }
 
 .bottom-container {
@@ -72,6 +71,10 @@ p {
   font-family: 'Meddon', cursive;
   font-size: 2.25rem;
   font-weight: bold;
+}
+
+.skills {
+  padding-bottom: 30px;
 }
 
 .My-Skills {
