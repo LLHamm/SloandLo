@@ -54,13 +54,20 @@
         <a class="btn" href="mailto:abbcdddeieio@yahoo.com">CONTACT ME</a>
       </div>
     </div>
+<<<<<<< HEAD
   </div>
 
   <div class="bottom-container">
-    <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
-    <a class="footer-link" href="https://twitter.com/">Twitter</a>
-    <a class="footer-link" href="https://www.appbrewery.co/">Website</a>
-    <p>© 2018 Laura Hamm.</p>    
+=======
+    </div>
+
+    <div class="bottom-container">
+>>>>>>> 0a331f655da452bae2c1eda20c0d78c87eb13cbc
+      <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
+      <a class="footer-link" href="https://twitter.com/">Twitter</a>
+      <a class="footer-link" href="https://www.appbrewery.co/">Website</a>
+      <p>© 2018 Laura Hamm.</p>
+    </div>
   </div>
   
 </body>
